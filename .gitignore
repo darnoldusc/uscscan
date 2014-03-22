@@ -1,0 +1,17 @@
+*.asv
+*.p
+*.mold
+*.molder
+*.mat
+*.ncb
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.manifest
+*.idb
+*.dep
+*.user.user
+BuildLog.htm
+*.user
